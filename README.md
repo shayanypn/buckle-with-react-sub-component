@@ -1,6 +1,9 @@
 
+## Buckle with React sub-component
 
 
+
+Article: [Buckle with React sub-component](https://dev.to/shayanypn/buckle-with-react-sub-component-10ll)
 
 
 ![screen record of preview](https://github.com/shayanypn/buckle-with-react-sub-component/blob/master/preview.png)
